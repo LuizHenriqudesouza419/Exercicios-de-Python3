@@ -12,4 +12,4 @@ while True:
         break
 print('=-' * 30)
 print(f'Você digitou oos valores {Números}')
-    
+print()
