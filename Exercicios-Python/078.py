@@ -22,4 +22,4 @@ print(f'O menor valor foi {menor} nas posições', end= '')
 for i, v in enumerate(listanum):
     if v == menor:
         print(f' {i}...', end=' ')
-print()
+
