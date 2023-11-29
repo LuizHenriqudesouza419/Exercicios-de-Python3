@@ -13,3 +13,4 @@ if len(pilha) == 0:
     print('sua expessão está válida')
 else: 
     print('Sua expressão não está valida')
+
