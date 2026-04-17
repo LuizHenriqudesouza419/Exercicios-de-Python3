@@ -11,6 +11,6 @@ while True:
     if r in 'Nn':
         break
 print('=-' * 30)
-Números.sort(3)
-print(f'Você digitou o3s valores {Números}')
+Números.sort()
+print(f'Você digitou os valores {Números}')
 
